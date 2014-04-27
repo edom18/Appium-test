@@ -1,0 +1,352 @@
+TAppium-test
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch Appium-test/Appium-test-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o /Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o /Users/edo/xcode-projects/Appium-test/Appium-test/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o /Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test normal x86_64
+cCopyStringsFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings Appium-test/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app /Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets
+cProcessInfoPlistFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Info.plist /Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist
+cGenerateDSYMFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test
+cTouch /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005349E2EF00000000000003B4
+t1397351151
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005349E2F9000000000000019E
+t1397351161
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005349E2FD0000000000446820
+t1397351165
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005349E2FF000000000088D8C0
+t1397351167
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005349E3060000000001F1DE10
+t1397351174
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005349E3420000000000000ADC
+t1397351234
+s2780
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m
+c000000005358BFAA00000000000007F4
+t1398325162
+s2036
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m
+c000000005358BFDB00000000000001DD
+t1398325211
+s477
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist
+c000000005358BFAA00000000000004C4
+t1398325162
+s1220
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Prefix.pch
+c000000005358BFAA0000000000000158
+t1398325162
+s344
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard
+c000000005358BFAA000000000000071E
+t1398325162
+s1822
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets
+c000000005358BFAA0000000000000088
+t1398325162
+s136
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/en.lproj/InfoPlist.strings
+c000000005358BFAA000000000000002D
+t1398325162
+s45
+
+N/Users/edo/xcode-projects/Appium-test/Appium-test/main.m
+c000000005358BFAA000000000000016B
+t1398325162
+s363
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o
+t1398325278
+s68724
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o
+t1398325278
+s40556
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/Appium-test.LinkFileList
+c000000005358C01E00000000000001A0
+t1398325278
+s416
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o
+t1398325278
+s3776
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_dependencies.txt
+t1398325279
+s355
+
+N/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_generated_info.plist
+t1398325279
+s525
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app
+t1398325279
+s306
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM
+t2
+s0
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test
+t1398325279
+s17544
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Base.lproj/Main.storyboardc
+t1398325279
+s170
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Info.plist
+t1398325279
+s1020
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/PkgInfo
+t1398325279
+s8
+
+N/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings
+t1398325279
+s42
+
+N/var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch
+t1398325278
+s123064
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies06d41b9ef708b941^8600389ef708b941^---0#1#1#--18"Check dependencies36"17646556-10DC-4246-A7DC-1632DAB96E07-
+
+CCompileAssetCatalog /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app /Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets
+s420018079.019592
+e420018079.987572
+r1
+xCompileAssetCatalog
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app
+x/Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/LaunchImage-700-568h@2x.png
+o/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Assets.car
+o/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/Appium-test.app [1mAppium-test/Images.xcassets[0m107"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/Appium-test.app [1mAppium-test/Images.xcassets[0m111e059ff708b941^1cd2fc9ff708b941^-383"/* com.apple.actool.compilation-results *//Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/LaunchImage-700-568h@2x.png/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Assets.car/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets/0000000000000000^1557"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/Appium-test.app [1mAppium-test/Images.xcassets[0m    cd /Users/edo/xcode-projects/Appium-test    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app /Users/edo/xcode-projects/Appium-test/Appium-test/Images.xcassets36"92B306D9-5FDC-4E47-B465-66A1C891B7BC-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o /Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420018078.624515
+e420018078.761561
+r1
+xCompileC
+xbuild/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o
+x/Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m
+d/Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m226"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o [1mAppium-test/APTAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfc00a09ef708b941^1af7c29ef708b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m0000000000000000^4042"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o [1mAppium-test/APTAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edo/xcode-projects/Appium-test    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-generated-files.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-own-target-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-all-target-headers.hmap -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-project-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources/x86_64 -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources -F/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator -include /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch -MMD -MT dependencies -MF /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.d --serialize-diagnostics /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.dia -c /Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.m -o /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o36"A34A8D3B-A678-4BD4-9693-F152694636DE-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o /Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420018078.625196
+e420018078.748199
+r1
+xCompileC
+xbuild/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o
+x/Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m
+d/Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m232"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o [1mAppium-test/APTViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4b3ca09ef708b941^4390bf9ef708b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m0000000000000000^4060"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o [1mAppium-test/APTViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edo/xcode-projects/Appium-test    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-generated-files.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-own-target-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-all-target-headers.hmap -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-project-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources/x86_64 -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources -F/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator -include /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch -MMD -MT dependencies -MF /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.d --serialize-diagnostics /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.dia -c /Users/edo/xcode-projects/Appium-test/Appium-test/APTViewController.m -o /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o36"A4C37434-9FE4-44E8-8BF2-BC988AFBF061-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CCompileC build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o /Users/edo/xcode-projects/Appium-test/Appium-test/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420018078.624778
+e420018078.682945
+r1
+xCompileC
+xbuild/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o
+x/Users/edo/xcode-projects/Appium-test/Appium-test/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edo/xcode-projects/Appium-test/Appium-test/main.m
+d/Users/edo/xcode-projects/Appium-test/Appium-test/APTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/edo/xcode-projects/Appium-test/Appium-test/main.m206"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o [1mAppium-test/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler001fa09ef708b941^06d5ae9ef708b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/edo/xcode-projects/Appium-test/Appium-test/main.m0000000000000000^3982"[1mCompileC[0m build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o [1mAppium-test/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edo/xcode-projects/Appium-test    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-generated-files.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-own-target-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-all-target-headers.hmap -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-project-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources/x86_64 -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources -F/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator -include /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch -MMD -MT dependencies -MF /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.dia -c /Users/edo/xcode-projects/Appium-test/Appium-test/main.m -o /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o36"87C0E0A6-760C-47A4-B32E-154B9812ACD7-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CCompileStoryboard /Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard
+s420018079.019072
+e420018079.072889
+r1
+xCompileStoryboard
+x/Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"[1mCompileStoryboard[0m [1mAppium-test/Base.lproj/Main.storyboard[0m72"[1mCompileStoryboard[0m [1mAppium-test/Base.lproj/Main.storyboard[0ma400059ff708b941^9bab129ff708b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard0000000000000000^1277"[1mCompileStoryboard[0m [1mAppium-test/Base.lproj/Main.storyboard[0m    cd /Users/edo/xcode-projects/Appium-test    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Base.lproj/Main.storyboardc /Users/edo/xcode-projects/Appium-test/Appium-test/Base.lproj/Main.storyboard36"AC54563C-E2BA-4847-8D18-7CDCF3C0998A-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CCopyStringsFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings Appium-test/en.lproj/InfoPlist.strings
+s420018079.018947
+e420018079.020787
+r1
+xCopyStringsFile
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings
+xAppium-test/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Appium-test/en.lproj/InfoPlist.strings133"[1mCopyStringsFile[0m build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings Appium-test/en.lproj/InfoPlist.stringsd4f1049ff708b941^e352059ff708b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/edo/xcode-projects/Appium-test/Appium-test/en.lproj/InfoPlist.strings0000000000000000^1019"[1mCopyStringsFile[0m build/Debug-iphonesimulator/Appium-test.app/en.lproj/InfoPlist.strings Appium-test/en.lproj/InfoPlist.strings    cd /Users/edo/xcode-projects/Appium-test    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/en.lproj -- Appium-test/en.lproj/InfoPlist.strings36"BAF1B21A-E221-4BB3-88D5-52C19F444375-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CGenerateDSYMFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test
+s420018079.991545
+e420018080.019726
+r1
+xGenerateDSYMFile
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM137"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/Appium-test.app.dSYM[0m build/Debug-iphonesimulator/Appium-test.app/Appium-test25eafd9ff708b941^4a0d05a0f708b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM00343c4edcffdf42^1084"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/Appium-test.app.dSYM[0m build/Debug-iphonesimulator/Appium-test.app/Appium-test    cd /Users/edo/xcode-projects/Appium-test    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test -o /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app.dSYM36"C097AEBA-6778-4324-95A6-2E92DF3E165C-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CLd /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test normal x86_64
+s420018078.763109
+e420018079.017374
+r1
+xLd
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test
+xnormal
+xx86_64
+d/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/Appium-test.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTAppDelegate.o
+d/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/main.o
+d/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/APTViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test80"[1mLd[0m build/Debug-iphonesimulator/Appium-test.app/Appium-test normal x86_64f772c39ef708b941^9b73049ff708b941^---0#0#1#--1797"[1mLd[0m build/Debug-iphonesimulator/Appium-test.app/Appium-test normal x86_64    cd /Users/edo/xcode-projects/Appium-test    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator -F/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator -filelist /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/Appium-test.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Objects-normal/x86_64/Appium-test_dependency_info.dat -o /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Appium-test36"FDD9C9F2-3803-4480-90B3-424B4F4F5806-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CProcessInfoPlistFile /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Info.plist /Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist
+s420018079.988106
+e420018079.990880
+r1
+xProcessInfoPlistFile
+x/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Info.plist
+x/Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist126"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/Appium-test.app/Info.plist [1mAppium-test/Appium-test-Info.plist[0m5f08fd9ff708b941^b4aafd9ff708b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist0000000000000000^1310"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/Appium-test.app/Info.plist [1mAppium-test/Appium-test-Info.plist[0m    cd /Users/edo/xcode-projects/Appium-test    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    builtin-infoPlistUtility /Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Info.plist -genpkginfo /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/assetcatalog_generated_info.plist -o /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app/Info.plist36"CB897192-4D43-4321-8850-71D51FAFDC37-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CProcessPCH /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch Appium-test/Appium-test-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420018078.223469
+e420018078.623036
+r1
+xProcessPCH
+x/var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch
+xAppium-test/Appium-test-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Appium-test/Appium-test-Prefix.pch316"[1mProcessPCH[0m /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch Appium-test/Appium-test-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf6a399ef708b941^99809f9ef708b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Prefix.pch0000000000000000^4099"[1mProcessPCH[0m /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch Appium-test/Appium-test-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edo/xcode-projects/Appium-test    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/edo/.rbenv/shims:/Users/edo/.perlbrew/bin:/Users/edo/.perlbrew/perls/perl-5.16.1/bin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/edo/.nodebrew/current/bin:/Users/edo/bin:/Users/edo/myCommand:/Users/edo/myCommand:/Users/edo/node_modules/coffee-script/bin:::::/opt/local/bin:/opt/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/edo/.rbenv/shims:/usr/local/share/python:/Users/edo/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=238 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-generated-files.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-own-target-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-all-target-headers.hmap -iquote /Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/Appium-test-project-headers.hmap -I/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources/x86_64 -I/Users/edo/xcode-projects/Appium-test/build/Appium-test.build/Debug-iphonesimulator/Appium-test.build/DerivedSources -F/Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.d -c /Users/edo/xcode-projects/Appium-test/Appium-test/Appium-test-Prefix.pch -o /var/folders/0j/68ydp65j5pxc7p9m92m9zjbc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Appium-test-Prefix-bypdqdtgibyemmbukgmqiqorcajy/Appium-test-Prefix.pch.pch36"7D378C65-D7A3-4697-A6F8-65CE17E6824E-
+b53915F38-38B1-4BB2-9D02-267CF5578734
+
+CTouch /Users/edo/xcode-projects/Appium-test/build/Debug-iphonesimulator/Appium-test.app
+r0
+
